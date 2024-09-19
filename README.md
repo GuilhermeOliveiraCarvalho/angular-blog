@@ -1,27 +1,32 @@
-# AngularBlog
+📖 Criando um Blog com Angular +17 e Node.JS 🚀
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
+Este repositório contém o código do Desafio de Projeto da DIO (Digital Innovation One), como parte do bootcamp Deal - Spring Boot e Angular + 17. O desafio foi intitulado "Criando um Blog com Angular", onde foi desenvolvido um blog completo que aborda tópicos sobre Java, Spring Boot, MySQL e Angular.
 
-## Development server
+✨ Tecnologias Utilizadas:
+Angular +17 🚀
+Node.js 🟢
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+📚 O Blog:
+Este blog foi desenvolvido para demonstrar o poder de algumas das tecnologias mais populares do mercado:
 
-## Code scaffolding
+Java: Um dos mais poderosos e populares linguagens de programação.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Spring Boot: Simplificando a construção de aplicações robustas com Java.
 
-## Build
+MySQL: Construindo bancos de dados escaláveis e robustos para gerenciar dados de maneira eficiente.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Angular +17: Explorando o desenvolvimento frontend moderno, com foco em componentes standalone, alta performance e facilidade de desenvolvimento.
 
-## Running unit tests
+🚀 Habilidades Aprendidas:
+Durante o desenvolvimento deste projeto, foram adquiridas diversas habilidades fundamentais de Frontend e Backend, como:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+🎨 HTML, CSS e TypeScript para a construção da interface do blog.
+🧱 Criação de containers e estruturação de componentes de maneira modular.
+🔗 Conexão de frontend e backend para construir uma aplicação web completa.
+🐞 Resolução de bugs e desafios de implementação, permitindo uma evolução contínua como programador.
 
-## Running end-to-end tests
+💡 Desafios e Experiência:
+Durante o desenvolvimento, enfrentei diversos problemas e bugs, mas com persistência, consegui resolvê-los, o que me ajudou a evoluir muito como desenvolvedor. Este projeto proporcionou uma excelente experiência na construção de aplicações completas com Angular, integrando conceitos avançados de frontend e backend.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+📌 Desafio de Projeto:
+Este projeto faz parte do bootcamp Deal - Spring Boot e Angular + 17 da DIO (Digital Innovation One), sob o título "Criando um Blog com Angular".
